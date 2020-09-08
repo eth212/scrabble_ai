@@ -7,5 +7,5 @@
  - board setup (current placement, special tiles 2x and 3x) 
  - letter distributions and opponent's ability to play off the AI's letters
  
- # Original Scrabble Game Code Borrowed From https://github.com/fayrose/Scrabble
+ Original Scrabble Game Code Borrowed From https://github.com/fayrose/Scrabble
  
